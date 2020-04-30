@@ -1,0 +1,7 @@
+module ex4_top (
+	sw,
+	HEX0,
+	HEX1,
+	HEX2,
+
+);

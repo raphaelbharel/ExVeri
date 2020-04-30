@@ -1,0 +1,11 @@
+module binary_to_bcd_10 (out, in);
+	
+	input [9:0] in;
+	output [6:0] HEX0, hex1, hex2, hex3;
+	
+	
+
+	
+endmodule
+	
+	

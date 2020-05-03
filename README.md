@@ -1,8 +1,8 @@
 # ExVeri
-Digital Design with FPGA and Verilog: from 7 segment display to real-time audio signal processing.
+## Digital Design with FPGA and Verilog: from 7 segment display to real-time audio signal processing.
 
-Done as part of E2.1 Digital Electronics II at Imperial College London, with thanks to the brilliant Prof. Peter Cheung.
-All required and optional challenges complete. 
+Done as part of E2.1 Digital Electronics II at Imperial College London alongside Omar Sharif, with thanks to the brilliant Prof. Peter Cheung.
+All required and optional challenges part of the lab complete. 
 
 <p align="center">
   <img src="https://github.com/RaphaelBijaoui/images/blob/master/EXVERIAlteraCycloneV.png">
@@ -11,6 +11,7 @@ All required and optional challenges complete.
   <i>The Altera Cyclone V SoC</i>
 </p>
 
+----------------------------------------------------------------------------------------------------------------------------
 
 Quick guide to each part:
 
@@ -40,5 +41,16 @@ Part 4: ADC/DAC & Echo Synthesizer
   - [x] ex17 Echo	Synthesizer	with fixed	delay
   - [x] ex18 Multiple	echoes
   - [x] ex19 (optional) Echo Synthesizer	with Variable	delay
+  
+----------------------------------------------------------------------------------------------------------------------------
 
 For more information, have a look at Prof. Peter Cheung's open-source experiment homepage, which can be found <a href="http://www.ee.ic.ac.uk/pcheung/teaching/E2_experiment/">here.</a>
+
+For a walk-through of our work and thought process while building through these challenges, have a look at LabBook.pdf
+
+----------------------------------------------------------------------------------------------------------------------------
+
+... and as usual- if anything, the door is always open. Contact details in bio!
+
+Enjoy :)
+

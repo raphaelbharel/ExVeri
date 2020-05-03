@@ -1,5 +1,5 @@
-# ExVeri
-## Digital Design with FPGA and Verilog: from 7 segment display to real-time audio signal processing.
+# Experiment VERI
+### Digital Design with FPGA and Verilog: from 7 segment display to real-time audio signal processing.
 
 Done as part of E2.1 Digital Electronics II at Imperial College London alongside Omar Sharif, with thanks to the brilliant Prof. Peter Cheung.
 All required and optional challenges part of the lab complete. 
